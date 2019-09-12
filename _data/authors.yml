@@ -1,13 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Sara Wernig-Zorc"
+  uri         : "sarawernig.github.io"
+  email       : "sara.wernig-zorc(at)ur.de"
+  bio         : "Molecular biologist and bioinformatician"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : "sarawernig"
+  linkedin    : "https://www.linkedin.com/in/sarawz/"
 
 Name2 Name2:
   name        : "Name2 Name2"
