@@ -2,7 +2,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal website"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Sara Wernig Zorc"
 description              : &description ""
