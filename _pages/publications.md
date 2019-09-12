@@ -14,19 +14,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
----
-title: "Sense-Antisense lncRNA Pair Encoded by Locus 6p22.3 Determines Neuroblastoma Susceptibility via the USP36-CHD7-SOX9 Regulatory Axis"
-collection: publications
-permalink: /publications/2018
-excerpt: 'Trait-associated loci often map to genomic regions encoding long noncoding RNAs (lncRNAs), but the role of these lncRNAs in disease etiology is largely unexplored. We show that a pair of sense/antisense lncRNA (6p22lncRNAs) encoded by CASC15 and NBAT1 located at the neuroblastoma (NB) risk-associated 6p22.3 locus are tumor suppressors and show reduced expression in high-risk NBs. Loss of functional synergy between 6p22lncRNAs results in an undifferentiated state that is maintained by a gene-regulatory network, including SOX9 located on 17q, a region frequently gained in NB. 6p22lncRNAs regulate SOX9 expression by controlling CHD7 stability via modulating the cellular localization of USP36, encoded by another 17q gene. This regulatory nexus between 6p22.3 and 17q regions may lead to potential NB treatment strategies. Mondal et al. show a sense/antisense lncRNA pair expressed from the neuroblastoma (NB) risk-associated 6p22.3 locus is important for retinoic acid-induced NB differentiation gene-regulatory network by controlling CHD7 stability via modulating the cellular localization of the ubiquitin specific protease USP36.'
-date: 2018
-venue: 'Cancer Cell'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Mondal, T., Wernig-Zorc,S., … Kanduri, C. (2018). Sense-Antisense lncRNA Pair Encoded by Locus 6p22.3 Determines Neuroblastoma Susceptibility via the USP36-CHD7-SOX9 Regulatory Axis.<i>Cancer Cell</i>. 33(3).'
----
-
-[Download paper here](https://doi.org/10.1016/j.ccell.2018.01.020)
-
-Recommended citation: Mondal et al. (2018). "Sense-Antisense lncRNA Pair Encoded by Locus 6p22.3 Determines Neuroblastoma Susceptibility via the USP36-CHD7-SOX9 Regulatory Axis." <i>Journal 1</i>. 1(1).
-© 2019 GitHub, Inc.
