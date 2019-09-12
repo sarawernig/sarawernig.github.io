@@ -1,9 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# Welcome to my website
 
 # Site Settings
 locale                   : "en-US"
@@ -72,12 +67,12 @@ author:
   avatar           : "profile.png"
   bio              : "Molecular biologist and bioinformatician, specialized in non-coding RNAs, epigentics and chromatin."
   location         : "Regensburg, Germany"
-  employer         : "Laengst Lab, University of Regensburg"
+  employer         : "Laengst Lab"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Sara+wernig-zorc"
   email            : "sara.wernig-zorc(at)ur.de"
   researchgate     : "https://www.researchgate.net/profile/Sara_Wernig-Zorc"
   github           : "sarawernig"
-  linkedin         : "https://www.linkedin.com/in/sarawz/"
+  linkedin         : "sarawz"
   orcid            : "https://orcid.org/0000-0002-4377-7982"
   twitter          : "sarawernig"
 
