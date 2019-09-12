@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sara Wernig-Zorc"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Sara Wernig-Zorc"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://sarawernig.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sarawernig/sarawernig.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sara Wernig-Zorc"
   avatar           : "profile.png"
-  bio              : "Molecular biologist and bioinformatician"
+  bio              : "Molecular biologist and bioinformatician, specialized in non-coding RNAs, epigentics, chromatin and cancer"
   location         : "Regensburg, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Sara+wernig-zorc"
