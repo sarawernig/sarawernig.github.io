@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Personal website"
 title_separator          : "-"
-name                     : &name "Sara Wernig-Zorc"
+name                     : &name "Sara Wernig Zorc"
 description              : &description ""
-url                      : https://sarawernig.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sarawernig.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sarawernig/sarawernig.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -68,7 +68,7 @@ analytics:
 
 # Site Author
 author:
-  author           : "Sara Wernig Zorc"
+  name             : "Sara Wernig Zorc"
   avatar           : "profile.png"
   bio              : "Molecular biologist and bioinformatician, specialized in non-coding RNAs, epigentics, chromatin and cancer"
   location         : "Regensburg, Germany"
