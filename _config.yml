@@ -68,6 +68,7 @@ analytics:
 
 # Site Author
 author:
+  author           : "Sara Wernig Zorc"
   avatar           : "profile.png"
   bio              : "Molecular biologist and bioinformatician, specialized in non-coding RNAs, epigentics, chromatin and cancer"
   location         : "Regensburg, Germany"
