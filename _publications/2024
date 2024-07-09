@@ -1,0 +1,35 @@
+---
+title: "A human neural crest model reveals the developmental impact of neuroblastoma-associated chromosomal aberrations"
+collection: publications
+permalink: /publication/
+date: 2024-5-3
+excerpt: 'Early childhood tumours arise from transformed embryonic cells, which often carry large copy number alterations (CNA). However, it remains unclear how CNAs contribute to embryonic tumourigenesis due to a lack of suitable models. Here we employ female human embryonic stem cell (hESC) differentiation and single-cell transcriptome and epigenome analysis to assess the effects of chromosome 17q/1q gains, which are prevalent in the embryonal tumour neuroblastoma (NB). We show that CNAs impair the specification of trunk neural crest (NC) cells and their sympathoadrenal derivatives, the putative cells-of-origin of NB. This effect is exacerbated upon overexpression of MYCN, whose amplification co-occurs with CNAs in NB. Moreover, CNAs potentiate the pro-tumourigenic effects of MYCN and mutant NC cells resemble NB cells in tumours. These changes correlate with a stepwise aberration of developmental transcription factor networks. Together, our results sketch a mechanistic framework for the CNA-driven initiation of embryonal tumours.'
+venue: 'Nature Communications'
+citation: 'Saldana-Guerrero, I. M., Montano-Gutierrez, L. F., Boswell, K., Hafemeister, C., Poon, E., Shaw, L. E., Stavish, D., Lea, R. A., Wernig-Zorc, S., Bozsaky, E., Fetahu, I. S., Zoescher, P., Pötschger, U., Bernkopf, M., Wenninger-Weinzierl, A., Sturtzel, C., Souilhol, C., Tarelli, S., Shoeb, M. R., Bozatzi, P., Rados, M., Guarini, M., Buri, M. C., Weninger, W., Putz, E. M., Huang, M., Ladenstein, R., Andrews, P. W., Barbaric, I., Cresswell, G. D., Bryant, H. E., Distel, M., Chesler, L., Taschner-Mandl, S., Farlik, M., Tsakiridis, A., & Halbritter, F. (2024). A human neural crest model reveals the developmental impact of neuroblastoma-associated chromosomal aberrations. <i>Nature Communications</i>, 15(1), 1–25.'
+---
+
+[Download paper here](https://doi.org/10.1038/s41467-024-47945-7)
+
+---
+title: "The long non-coding RNA MALAT1 modulates NR4A1 expression through a downstream regulatory element in specific cancer-cell-types"
+collection: publications
+permalink: /publication/
+date: 2024-5-18
+excerpt: 'Chromatin-associated long non-coding RNAs (lncRNAs) have been shown to define chromatin density, regulate gene expression, and are involved in the initiation and progression of various cancer types. Despite the wealth of studies describing transcriptome changes upon lncRNA modulation, little data is showing the direct effects of lncRNA on regulatory elements (REs) that drive gene expression. Here we explored the molecular mechanism of the chromatin-interacting lncRNA, MALAT1, through RNA- and ATAC-seq, using HeLa cells as a model system. Time-resolved MALAT1 knock-down assays revealed its direct regulation of a limited number of protein-coding genes. Loss of MALAT1 resulted in a substantial loss of chromatin accessibility downstream of the NR4A1 gene, associated with its down-regulation. CRISPR-i assays revealed that this region corresponds to a new downstream RE. Next, using TCGA data, we identified a direct correlation between the expression of NR4A1 and the accessibility of the downstream RE in breast cancer. The molecular mechanism was validated on estrogen receptor (ER) positive breast cancer cells (MCF7) and Pancreatic Duct Epithelioid Carcinoma (PANC1) cells, not showing this effect according to TCGA data. Indeed, MALAT1 regulates the expression of NR4A1 in a cell type-specific manner by changing the accessibility of the downstream RE. MALAT1 exhibits a molecular mechanism that fine-tunes the expression of cancer drivers, like NR4A1, in ER-positive breast cancer cells, but not in other cell types. ### Competing Interest Statement The authors have declared no competing interest.'
+venue: 'International Journal of Molecular Sciences'
+citation: 'Wernig-Zorc, S., Schwartz, U., Martínez, P., Inalef, J., Pavicic, F., Ehrenfeld, P., Längst, G., & Maldonado Affiliations, R. (2024). The long non-coding RNA MALAT1 modulates NR4A1 expression through a downstream regulatory element in specific cancer-cell-types. <i>International Journal of Molecular Sciences</i>, 25, 5515.'
+---
+
+[Download paper here](https://doi.org/10.3390/ijms25105515)
+
+---
+title: "nucMACC: An MNase-seq pipeline to identify structurally altered nucleosomes in the genome"
+collection: publications
+permalink: /publication/
+date: 2024-7-3
+excerpt: 'Micrococcal nuclease sequencing is the state-of-the-art method for determining chromatin structure and nucleosome positioning. Data analysis is complex due to the AT-dependent sequence bias of the endonuclease and the requirement for high sequencing depth. Here, we present the nucleosome-based MNase accessibility (nucMACC) pipeline unveiling the regulatory chromatin landscape by measuring nucleosome accessibility and stability. The nucMACC pipeline represents a systematic and genome-wide approach for detecting unstable (“fragile”) nucleosomes. We have characterized the regulatory nucleosome landscape in Drosophila melanogaster, Saccharomyces cerevisiae, and mammals. Two functionally distinct sets of promoters were characterized, one associated with an unstable nucleosome and the other being nucleosome depleted. We show that unstable nucleosomes present intermediate states of nucleosome remodeling, preparing inducible genes for transcriptional activation in response to stimuli or stress. The presence of unstable nucleosomes correlates with RNA polymerase II proximal pausing. The nucMACC pipeline offers unparalleled precision and depth in nucleosome research and is a valuable tool for future nucleosome studies.'
+venue: 'International Journal of Molecular Sciences'
+citation: [1] Wernig-Zorc, S., Kugler, F., Schmutterer, L., Räß, P., Hausmann, C., Holzinger, S., Längst, G., & Schwartz, U. (2024). nucMACC: An MNase-seq pipeline to identify structurally altered nucleosomes in the genome. <i>Science Advances</i>, 10(27), 9740.'
+---
+
+[Download paper here](https://doi.org/10.1126/SCIADV.ADM9740)
