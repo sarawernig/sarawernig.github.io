@@ -20,12 +20,12 @@ Work experience
 ======
 * January 2012 – July 2012: Student researcher
   * Characterization of mycobacteria proteins
-  * Supervisors: Dr. Marjetka Podobnik, prof. Dr. Gregor Anderluh
+  * Supervisor(s): Dr. Marjetka Podobnik and prof. Dr. Gregor Anderluh
   
 * 2015 - 2016: MSc project
   * Analysis of hydroxymethylation data from CLL patients
   * CRISPR/Cas9 knockout studies on CASC15 lncRNA
-  * Supervisors: prof. Dr. Chandrasekhar Kanduri, Dr. Tanmoy Mondal
+  * Supervisors: prof. Dr. Chandrasekhar Kanduri and Dr. Tanmoy Mondal
 
 * 2016 - 2018: Research Assistant
   * Optimization of DamID-seq pipeline
