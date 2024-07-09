@@ -11,22 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biotechnology, Univeristy of Ljubljana, 2014
-* Erasmus exchange programme, University of Aberdeen, 2013
-* M.S. in Genomics and Systems Biology, University of Gothenburg, 2016
 * Ph.D in Bioinformatics and RNA biology, Univeristy of Regensburg, 2022
+* M.S. in Genomics and Systems Biology, University of Gothenburg, 2016
+* Erasmus exchange programme, University of Aberdeen, 2013
+* B.S. in Biotechnology, University of Ljubljana, 2014
 
 Work experience
 ======
+* 2022 - ongoing: Postdoc
+  * Epigenetics
+  * Tumor microenvironment
+  * Neuroblastoma
+  * scRNA-seq/scATAC-seq
+  * Supervisor(s): Dr. Sabine Taschner-Mandl and Dr. Florian Halbritter
+ 
 * January 2012 – July 2012: Student researcher
   * Characterization of mycobacteria proteins
   * Supervisor(s): Dr. Marjetka Podobnik and prof. Dr. Gregor Anderluh
-  
+ 
 * 2015 - 2016: MSc project
   * Analysis of hydroxymethylation data from CLL patients
   * CRISPR/Cas9 knockout studies on CASC15 lncRNA
   * Supervisors: prof. Dr. Chandrasekhar Kanduri and Dr. Tanmoy Mondal
-
+ 
 * 2016 - 2018: Research Assistant
   * Optimization of DamID-seq pipeline
   * Optimization of DamID protocol for use in mammalian cells
@@ -36,13 +43,6 @@ Work experience
   * Unstable nucleosomes
   * RNA:DNA triplexes
   * Supervisor: prof. Dr. Gernot Längst
-
-* 2022 - ongoing: Postdoc
-  * Epigenetics
-  * Tumor microenvironment
-  * Neuroblastoma
-  * scRNA-seq/scATAC-seq
-  * Supervisor(s): Dr. Sabine Taschner-Mandl and Dr. Florian Halbritter
   
 Skills
 ======
