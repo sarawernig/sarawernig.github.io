@@ -1,10 +1,14 @@
 # main links links
 main:
+
+  - title: "Wernig lab"
+    url: /about/
+
   - title: "Publications"
     url: /publications/
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Team"
     url: /team/
+    
+  - title: "CV"
+    url: /cv/
