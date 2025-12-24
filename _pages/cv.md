@@ -52,7 +52,7 @@ Work experience
   
 Skills
 ======
-* Coding [R, Python, bash, SQL]
+* Coding [R, Python, bash, SQL, STATA]
 * Mathematical modelling
 * NGS analysis [ChIP-seq, RNA-seq, smallRNA-seq analysis, MNase-seq, ATAC-seq, DamID-seq, hMeDIp/MeDIP-seq, BS-seq]
 * Single cell analysis [scRNA-seq, scATAC-seq]
@@ -60,7 +60,7 @@ Skills
 * Gene perturbations [CRISPR/Cas9, sh/siRNA, LNA, OE]
 * Cell culture [primary patient cell lines, hESCs, iPSCs]
 * Biochemical assays [Microscale thermophoresis, western blot]
-
+* Biostatistics and clinical trial design 
 
 Awards, grants
 ======
