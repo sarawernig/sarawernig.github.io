@@ -24,11 +24,11 @@ redirect_from:
 - Single-cell Analysis: I employ scRNA-seq and scATAC-seq to resolve the heterogeneous cell populations and regulatory states within neuroblastoma tumor cells and their interactions with the microenvironment.
 - Clinical Trial Design: I apply biostatistical expertise to the design of pediatric clinical trials. Additionally using secondary analyses of clinical trial and integrating the results with my own NGS datasets to evaluate biological markers and treatment efficacy.
 
-​## ​Experimental Models and Clinical Translation
+## ​Experimental Models and Clinical Translation
 
 ​My team utilizes human embryonic stem cells (hESCs) and iPSC-derived organoids to model tumor-microenvironment interactions. We are currently developing organoid models as a platform for pre-clinical testing of therapeutic interventions in a setting that mimics the clinical environment.
 
-​## ​Mentorship and Supervision
+## ​Mentorship and Supervision
 
 ​Beyond my research, I am committed to academic mentorship of young researchers. I currently co-supervise two PhD students, guiding their work in wet lab and dry lab, and helping them navigate the intersection of computational biology and experimental work.
 
