@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Wernig Lab"
 excerpt: "About"
 author_profile: true
 redirect_from: 
