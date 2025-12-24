@@ -4,9 +4,9 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name "Sara Wernig Zorc"
+name                     : &name "Dr. Sara Wernig Zorc"
 description              : &description ""
-url                      : https://sarawernig.github.io 
+url                      : http://www.wernig-lab.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sarawernig/sarawernig.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -50,11 +50,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : "sarawernig"
-og_image                 :  # Open Graph/Twitter default site image
-
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
@@ -63,18 +58,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sara Wernig Zorc"
-  avatar           : "profile.png"
-  bio              : "Molecular biologist and bioinformatician, specialized in non-coding RNAs, epigentics and chromatin."
-  location         : "Regensburg, Germany"
-  employer         : "Laengst Lab"
+  name             : "Dr. Sara Wernig Zorc"
+  avatar           : "SARA_WERNIG-ZORC.jpg"
+  bio              : "Molecular biologist and bioinformatician, specialized in epigenetic regulation of gene expression and pediatric oncology."
+  location         : "Vienna, Austria"
+  employer         : "St. Anna Children's Cancer Research Institute (CCRI)"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Sara+wernig-zorc"
-  email            : "sara.wernig-zorc(at)ur.de"
+  email            : "sara.wernig-zorc(at)ccri.at"
   researchgate     : "https://www.researchgate.net/profile/Sara_Wernig-Zorc"
   github           : "sarawernig"
-  linkedin         : "sarawz"
+  linkedin         : "linkedin.com/in/sarawernig"
   orcid            : "https://orcid.org/0000-0002-4377-7982"
-  twitter          : "sarawernig"
 
 
 # Reading Files
@@ -215,7 +209,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Berlin
+timezone: Europe/Vienna
 
 
 # Plugins
