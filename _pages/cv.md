@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Bioinformatics and RNA biology, Univeristy of Regensburg, 2022
+* Swedish national graduate school in Medical Bioinformatics, 2018
 * M.S.c in Genomics and Systems Biology, University of Gothenburg, 2016
 * Erasmus exchange, University of Aberdeen, 2013
 * B.S.c in Biotechnology, University of Ljubljana, 2014
