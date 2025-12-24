@@ -9,10 +9,24 @@ redirect_from:
 ---
 
 
-As a dedicated postdoctoral researcher, my work is driven by a profound commitment to understanding the complex epigenetic mechanisms underlying pediatric cancer. With a robust background in experimental molecular biology, complemented by advanced training in next-generation sequencing and bioinformatic analysis, I am passionate about bridging the gap between experimental research and clinical applications.
+The Wernig Lab investigates the epigenetic and chromatin-based mechanisms that drive pediatric cancer, with a focus on the regulatory landscapes of neuroblastoma. Our research integrates molecular biology and translational data science to connect fundamental genomic discovery with the design and analysis of early-phase clinical trials.
 
-During my doctoral studies and subsequent postdoctoral research, I have honed my skills in dissecting the nuances of gene regulation at the epigenetic level. My current research focuses on the tumor microenvironment and epigenetics of Neuroblastoma and novel innovative treatments. By leveraging single-cell RNA and ATAC sequencing technologies and sophisticated bioinformatic tools, I aim to uncover novel insights that could lead to more effective and less invasive treatment options for children suffering from cancer.
+​Our Research Focus
+​We study how the misregulation of chromatin and distal regulatory elements shapes tumor identity and the microenvironment. A central theme of our work is identifying the molecular triggers that initiate tumor regression, specifically the spontaneous resolution observed in Stage 4S neuroblastoma.
 
-I actively collaborate with multidisciplinary teams of scientists, clinicians, bioinformaticians, statisticians, and experimental researchers, and am eager to engage with potential collaborators or institutions interested in making significant advances in pediatric oncology. My goal is to contribute to science that not only advances our understanding but also translates into tangible benefits for patient care.
+​Our research investigates the interplay between:
+- ​DNA Methylation and Hydroxymethylation: Mapping the modifications that govern gene silencing and activation.
+- ​Chromatin Accessibility: Defining the landscape of open regulatory regions using ATAC-seq.
+- ​Histone Modifications: Identifying the marks that establish and maintain oncogenic or pro-regression states.
+
+​Bioinformatics and Clinical Data Science
+​Our lab maintains a core emphasis on computational biology and biostatistics. We utilize bioinformatics to interpret complex datasets and bridge the gap between bench science and clinical applications.
+- ​Single-Cell Analysis: We employ scRNA-seq and scATAC-seq to resolve the heterogeneous cell populations and regulatory states within neuroblastoma.
+​- Clinical Trial Expertise: We apply biostatistical expertise to the design of pediatric clinical trials. Our team performs secondary analyses of clinical trial data, primarily integrating these results with our own NGS datasets to evaluate biological markers and treatment efficacy.
+
+​Experimental Models and Clinical Translation
+​We utilize human embryonic stem cells (hESCs) and iPSC-derived organoids to model the tumor <-> microenvironment interactions. We are currently developing these organoid models as platforms to test therapeutic interventions in a setting that mimics the clinical environment. By grounding our findings in human molecular mechanisms, we aim to identify vulnerabilities in the cancer's epigenetic program that can be leveraged for personalized treatments.
+
+
 
 
