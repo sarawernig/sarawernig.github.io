@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Certificate in clinical trial design and statistical analysis, Harvard Medical School, 2025
 * Ph.D in Bioinformatics and RNA biology, Univeristy of Regensburg, 2022
 * Swedish national graduate school in Medical Bioinformatics, 2018
 * M.S.c in Genomics and Systems Biology, University of Gothenburg, 2016
