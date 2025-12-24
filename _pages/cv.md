@@ -25,7 +25,7 @@ Work experience
   * Epigenetics
   * Tumor microenvironment
   * Neuroblastoma
-  * scRNA-seq/scATAC-seq
+  * scRNA-seq | snATAC-seq
   * PI(s): Dr. Sabine Taschner-Mandl and Dr. Florian Halbritter
  
 * 2018 - 2022: PhD student
@@ -36,7 +36,7 @@ Work experience
 * 2016 - 2018: Bioinformatician
   * Optimization of DamID-seq pipeline
   * Optimization of DamID protocol for use in mammalian cells
-  * Received AG FOND Research grant: /i/Alternative modeling of neuroblastoma progress using patient derived iPSCs./i/
+  * Received AG FOND Research grant: Alternative modeling of neuroblastoma progress using patient derived iPSCs.
   * PI: prof. Dr. Chandrasekhar Kanduri
  
 * 2015 - 2016: MSc project
@@ -50,20 +50,14 @@ Work experience
   
 Skills
 ======
-* Advanced python programming
-* Advanced bash scripting
-* Advanced SQL database programming
-* Advanced R programming
+* Coding [R, Python, bash, SQL]
 * Mathematical modelling
-* ChIP-seq analysis
-* RNA-seq analysis
-* smallRNA-seq analysis
-* MNase-seq analysis
-* ATAC-seq analysis
-* DamID-seq analysis
-* hMeDIp/MeDIP-seq analysis
-* scRNA-seq analysis
-* scATAC-seq analysis
+* NGS analysis [ChIP-seq, RNA-seq, smallRNA-seq analysis, MNase-seq, ATAC-seq, DamID-seq, hMeDIp/MeDIP-seq, BS-seq]
+* Single cell analysis [scRNA-seq, scATAC-seq]
+* NGS library construction
+* Gene perturbations [CRISPR/Cas9, sh/siRNA, LNA, OE]
+* Cell culture [primary patient cell lines, hESCs, iPSCs]
+* Biochemical assays [Microscale thermophoresis, western blot]
 
 
 Publications
