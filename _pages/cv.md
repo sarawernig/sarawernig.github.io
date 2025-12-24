@@ -65,7 +65,7 @@ Skills
 
 Awards, grants
 ======
-* Award for best oral presentation in the basic science category at ANR2025]
+* Award for best oral presentation in the basic science category at ANR conference [2025]
 * Research grant from ALSF [2025]
 * Research grant from AG FOND [2017]
 
