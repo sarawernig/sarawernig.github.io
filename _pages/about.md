@@ -24,7 +24,7 @@ The Wernig Lab investigates the epigenetic and chromatin-based mechanisms that d
 
 ​Our lab maintains a core emphasis on computational biology and biostatistics. We utilize bioinformatics to interpret complex datasets and bridge the gap between bench science and clinical applications.
 - ​Single-cell Analysis: We employ scRNA-seq and scATAC-seq to resolve the heterogeneous cell populations and regulatory states within neuroblastoma.
-​- Clinical Trial Design: We apply biostatistical expertise to the design of pediatric clinical trials. Our team performs secondary analyses of clinical trial data, primarily integrating these results with our own NGS datasets to evaluate biological markers and treatment efficacy.
+- Clinical Trial Design: We apply biostatistical expertise to the design of pediatric clinical trials. Our team performs secondary analyses of clinical trial data, primarily integrating these results with our own NGS datasets to evaluate biological markers and treatment efficacy.
 
 ## ​​Experimental Models and Clinical Translation
 
