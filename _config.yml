@@ -6,7 +6,7 @@ title                    : "About me"
 title_separator          : "-"
 name                     : &name "Dr. Sara Wernig Zorc"
 description              : &description ""
-url                      : http://www.wernig-lab.com
+url                      : https://www.wernig-lab.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sarawernig/sarawernig.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
